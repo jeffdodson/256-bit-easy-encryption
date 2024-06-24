@@ -1,1 +1,1 @@
-# 256-bit-easy-encryption
+# 256-bit-easy-encryption  This allows you to very easily put 256-bit encryption capability on your computer, if you know how to run Python code through Command Prompt or however you personally run the code. The code asks you only two questions: it asks you to put an any string of ASCII characters that is at least a 32 characters long, and it asks you for the message that you want encrypted. You run the code and it automatically gives you the encrypted message. That's it.
